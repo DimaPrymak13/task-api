@@ -27,4 +27,4 @@ class SubtaskRead(BaseModel):
     id: int
     title: str
     status: str
-    tasks_id: int
+    task_id: int
